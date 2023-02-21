@@ -1,0 +1,7 @@
+{
+    "timeouts": {
+        "pageLoad": 30000,
+        "implicit": 10000
+    },
+    "isMaximize": true
+}

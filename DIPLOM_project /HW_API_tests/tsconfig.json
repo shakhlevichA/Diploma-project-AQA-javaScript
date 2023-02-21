@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "types":["node", "jest"],
+        "esModuleInterop": true
+    },
+    "include": ["tests/*.spec.ts", "tests/login.spec.ts"]
+}
+
